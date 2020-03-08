@@ -1,12 +1,12 @@
 body {
   text-align: center;
-  background-image: url(images/wooden-table.png);
+  background-image: url(wooden-table.png);
 }
 
 .simon-box{
 	width: 440px;
 	height: 440px;
-	background-image: url(images/simon-buttom.png);
+	background-image: url(simon-buttom.png);
 	margin: 0 auto;
 	position: relative;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .game-over {
-  background-image: url(images/Game-over.png);
+  background-image: url(Game-over.png);
   opacity: 0.8;
 }
 
@@ -44,14 +44,14 @@ body {
 }
 
 .red {
-	background-image: url(images/red-btn.png);
+	background-image: url(red-btn.png);
 	width: 200px;
 	height: 200px;
 	display: inline-block;
 }
 
 .green {
-	background-image: url(images/green-btn.png);
+	background-image: url(green-btn.png);
 	width: 200px;
 	height: 200px;
     display: inline-block;
@@ -68,14 +68,14 @@ body {
 }
 
 .blue {
-	background-image: url(images/blue-btn.png);
+	background-image: url(blue-btn.png);
 	width: 200px;
 	height: 200px;
     display: inline-block;
 }
 
 .yellow {
-	background-image: url(images/yellow-btn.png);
+	background-image: url(yellow-btn.png);
     width: 200px;
 	height: 200px;
     display: inline-block;
